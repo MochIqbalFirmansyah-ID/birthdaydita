@@ -20,7 +20,7 @@ export default function LetterModal({ isOpen, onClose }: LetterModalProps) {
         </button>
 
         <div className="modal-body">
-          <h2 className="modal-title">Surat Panjang Untuk Ditaa 💌</h2>
+          <h2 className="modal-title">Surat Panjang Untuk Ditaaa 💌</h2>
 
           <div className="letter-content">
             <p className="letter-greeting">Hai, Ditaa</p>
